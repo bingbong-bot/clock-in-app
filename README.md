@@ -4,29 +4,29 @@ A professional JavaFX-based employee clock-in/clock-out system with photo verifi
 
 ## Features
 
-✅ **Employee Management**
+**Employee Management**
 - User registration with secure password hashing (bcrypt)
 - Employee clock-in/clock-out with photo verification
 - Automatic timestamp recording
 
-✅ **Security**
+**Security**
 - Password-based authentication with bcrypt hashing (12 rounds)
 - Role-based access control (Employee/Admin)
 - Photo verification for audit trails
 
-✅ **Data Management**
+**Data Management**
 - SQLite database with persistent storage
 - Comprehensive clock record tracking
 - Photo storage and retrieval
 - Query interface for data analysis
 
-✅ **Admin Features**
+**Admin Features**
 - View all employee clock records
 - Filter records by employee and date
 - Database viewer for advanced queries
 - Audit logging for compliance
 
-✅ **Production Ready**
+**Production Ready**
 - Comprehensive error handling
 - SLF4J logging with file rotation
 - Maven-based build system
